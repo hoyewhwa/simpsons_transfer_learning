@@ -1,6 +1,6 @@
 # Simpsons Characters recognition using transfer learning
 
-###simpsons_transferred_learning.ipynb
+### simpsons_transferred_learning.ipynb
 The Simpsons Characters dataset is obtained from https://www.kaggle.com/alexattia/the-simpsons-characters-dataset.
 I only used 23 characters from the dataset. There are 13495 images for the 23 characters.
 
